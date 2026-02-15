@@ -10,7 +10,7 @@ const socialLinks = [
   { icon: Instagram, href: "https://www.instagram.com/pabitrra.nayak?igsh=cmw0OHc4YWhxaHAz", label: "Instagram" },
   { icon: Linkedin, href: "https://www.linkedin.com/in/pabitra-nayak-678482295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", label: "LinkedIn" },
   
-  { icon: Github, href: "https://github.com/pabitranayak0019-developer?tab=repositories", label: "GitHub" },
+  { icon: Github, href: "https://github.com/pabitranayak0019-developer", label: "GitHub" },
   
 ];
 
