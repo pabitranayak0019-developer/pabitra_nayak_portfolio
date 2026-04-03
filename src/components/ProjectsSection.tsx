@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 
 import quizCover from "@/assets/quiz-cover.png";
 import typingCover from "@/assets/typing-cover.jpg";
-
+import a from "@/assets/a.png";
 const projects = [
   {
     title: "Smart Quiz Competition",
@@ -20,6 +20,16 @@ const projects = [
     liveUrl: "https://typing-speed-lovat.vercel.app/",
     codeUrl: "#",
     image: typingCover,
+    tags: ["HTML", "CSS", "JAVASCRIPT"],
+  },
+
+  const projects = [
+  {
+    title: "Mini-Amazon-Shop",
+    description: "Quality products. Honest prices. Happy customers.",
+    liveUrl: "https://mini-amazon-shop.vercel.app/",
+    codeUrl: "#",
+    image: a,
     tags: ["HTML", "CSS", "JAVASCRIPT"],
   },
 ];
