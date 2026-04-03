@@ -23,7 +23,7 @@ const projects = [
     tags: ["HTML", "CSS", "JAVASCRIPT"],
   },
 
-  const projects = [
+  
   {
     title: "Mini-Amazon-Shop",
     description: "Quality products. Honest prices. Happy customers.",
